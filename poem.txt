@@ -5,3 +5,4 @@ deer
 peacock
 fox
 snakes
+aquatic animals can be added
