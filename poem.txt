@@ -6,3 +6,5 @@ peacock
 fox
 snakes
 aquatic animals can be added
+birds can be added
+piegeon
