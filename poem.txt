@@ -1,4 +1,4 @@
-red 
-green 
-blue
-yellow
+lion
+tiger
+elephant
+deer
