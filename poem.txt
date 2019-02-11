@@ -3,3 +3,5 @@ tiger
 elephant
 deer
 peacock
+fox
+snakes
